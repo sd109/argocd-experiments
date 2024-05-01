@@ -15,4 +15,4 @@ spec:
       releaseName: sealed-secrets
   destination:
     server: "https://kubernetes.default.svc"
-    namespace: kubeseal
+    namespace: default
